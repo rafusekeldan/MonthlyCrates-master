@@ -1,0 +1,9 @@
+name: MonthlyCrates-master
+version: '1.0-SNAPSHOT'
+main: dev.keldan.monthlycrates.MonthlyCrates
+depend:
+  - NBTAPI
+commands:
+  crate:
+    description: Main crate command
+    usage: /crate

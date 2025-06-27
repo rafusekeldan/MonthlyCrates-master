@@ -1,0 +1,7 @@
+name: MonthlyCrates-master
+version: '1.0-SNAPSHOT'
+main: dev.keldan.monthlycrates.MonthlyCrates
+commands:
+  crate:
+    description: Main crate command
+    usage: /crate

@@ -1,0 +1,13 @@
+dev\keldan\monthlycrates\crate\CrateListener.class
+dev\keldan\monthlycrates\crate\CrateItemFactory.class
+dev\keldan\monthlycrates\utils\VersionUtil.class
+dev\keldan\monthlycrates\command\CrateCommand.class
+dev\keldan\monthlycrates\MonthlyCrates.class
+dev\keldan\monthlycrates\utils\commands\CommandContext.class
+dev\keldan\monthlycrates\utils\commands\CommandFramework.class
+dev\keldan\monthlycrates\utils\enums\CompatibleHand.class
+dev\keldan\monthlycrates\utils\packets\EntityIdGenerator.class
+dev\keldan\monthlycrates\utils\packets\PacketBasedEntity.class
+dev\keldan\monthlycrates\utils\commands\BaseCommand.class
+dev\keldan\monthlycrates\crate\Crate.class
+dev\keldan\monthlycrates\utils\ItemUtil.class
